@@ -1,0 +1,82 @@
+[
+    {
+        "role": "user",
+        "content": "Tell me today's date."
+    },
+    {
+        "role": "assistant",
+        "content": "Today's date is April 3, 2025."
+    },
+    {
+        "role": "user",
+        "content": "Ab main isko kuchh line se."
+    },
+    {
+        "role": "assistant",
+        "content": "I can respond in English. You said \"Ab main isko kuchh line se\" which means \"Now I will say something in a few lines\". Please go ahead and say what you want to say!"
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thank you for asking!"
+    },
+    {
+        "role": "user",
+        "content": "What is today's date?"
+    },
+    {
+        "role": "assistant",
+        "content": "Today's date is April 3, 2025."
+    },
+    {
+        "role": "user",
+        "content": "Tell me the stock price of tata."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest available information, the stock price of Tata Motors is 661.45."
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thank you for asking!"
+    },
+    {
+        "role": "user",
+        "content": "Song."
+    },
+    {
+        "role": "assistant",
+        "content": "You want to know the current top song! According to the latest music charts, the current top song is \"Flowers\" by Miley Cyrus."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thank you for asking!"
+    },
+    {
+        "role": "user",
+        "content": "What is my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Puneet Kushwaha."
+    }
+]
